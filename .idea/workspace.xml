@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9989513-bf88-438e-9ea4-7e5dc02be566" name="Changes" comment="hi">
+      <change afterPath="$PROJECT_DIR$/src/week6program/Prog21_Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extrahomework/Prog1_Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extrahomework/Prog1_Name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extrahomework/Prog2_Extra_Space.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extrahomework/Prog2_Extra_Space.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extrahomework/Prog3_Replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extrahomework/Prog3_Replace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extrahomework/Prog4_Length.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extrahomework/Prog4_Length.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extrahomework/Prog5_Concat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extrahomework/Prog5_Concat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extrahomework/Prog6_Replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extrahomework/Prog6_Replace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extrahomework/Prog7_Upper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extrahomework/Prog7_Upper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extrahomework/Prog8_Lower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extrahomework/Prog8_Lower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Prg10_Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg10_Multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Prg11_Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg11_Java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Prg12_Compute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg12_Compute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Prg13_Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg13_Calculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Prg14_Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg14_Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Prg15_Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg15_Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Prg16_Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg16_Binary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Prg17_Decimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg17_Decimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Prg18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Prg5_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg5_Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Prg6_Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg6_Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Prg7_Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg7_Temperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Prg9_Upper_Lower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg9_Upper_Lower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Pro19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Pro19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Pro20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Pro20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Pro_Instance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Pro_Instance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Pro_Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Pro_Static.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Program3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Program3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6program/Program4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Program4.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2J6LVEeXYGy5k2YhEgwGjumIrBL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Pro_Instance">
+    <configuration name="Prg10_Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6program.Prg10_Multiplication" />
+      <module name="Java_Homewokr_week6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prg15_Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6program.Prg15_Swap" />
+      <module name="Java_Homewokr_week6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prg9_Upper_Lower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6program.Prg9_Upper_Lower" />
+      <module name="Java_Homewokr_week6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pro_Instance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6program.Pro_Instance" />
+      <module name="Java_Homewokr_week6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prog21_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6program.Prog21_Reverse" />
+      <module name="Java_Homewokr_week6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pro_Instance" />
+        <item itemvalue="Application.Prg9_Upper_Lower" />
+        <item itemvalue="Application.Prg10_Multiplication" />
+        <item itemvalue="Application.Prog21_Reverse" />
+        <item itemvalue="Application.Prg15_Swap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9989513-bf88-438e-9ea4-7e5dc02be566" name="Changes" comment="" />
+      <created>1671393611101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671393611101</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hi" />
+    <option name="LAST_COMMIT_MESSAGE" value="hi" />
+  </component>
+</project>
