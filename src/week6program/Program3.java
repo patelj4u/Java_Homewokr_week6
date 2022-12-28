@@ -26,7 +26,7 @@ public class Program3 {
 
     //3.5 Declare the Main method.
     public static void main(String[] args) {
-        Program3 prg = new Program3();
+        Program3 prg = new Program3()
         prg.charmi();
         Program3.mishv();
     }

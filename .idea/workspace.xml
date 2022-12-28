@@ -4,36 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9989513-bf88-438e-9ea4-7e5dc02be566" name="Changes" comment="hi">
-      <change afterPath="$PROJECT_DIR$/src/week6program/Prog21_Reverse.java" afterDir="false" />
+    <list default="true" id="c9989513-bf88-438e-9ea4-7e5dc02be566" name="Changes" comment="Java Week homework 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extrahomework/Prog1_Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extrahomework/Prog1_Name.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extrahomework/Prog2_Extra_Space.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extrahomework/Prog2_Extra_Space.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extrahomework/Prog3_Replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extrahomework/Prog3_Replace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extrahomework/Prog4_Length.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extrahomework/Prog4_Length.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extrahomework/Prog5_Concat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extrahomework/Prog5_Concat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extrahomework/Prog6_Replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extrahomework/Prog6_Replace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extrahomework/Prog7_Upper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extrahomework/Prog7_Upper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extrahomework/Prog8_Lower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extrahomework/Prog8_Lower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Prg10_Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg10_Multiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Prg11_Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg11_Java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Prg12_Compute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg12_Compute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Prg13_Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg13_Calculate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Prg14_Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg14_Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Prg15_Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg15_Swap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Prg16_Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg16_Binary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Prg17_Decimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg17_Decimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Prg18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Prg5_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg5_Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Prg6_Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg6_Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Prg7_Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg7_Temperature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Prg9_Upper_Lower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Prg9_Upper_Lower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Pro19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Pro19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Pro20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Pro20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Pro_Instance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Pro_Instance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Pro_Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Pro_Static.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/week6program/Program3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Program3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6program/Program4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6program/Program4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,10 +124,19 @@
       <option name="presentableId" value="Default" />
       <updated>1671393611101</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java Week homework 6">
+      <created>1671902519279</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671902519279</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hi" />
-    <option name="LAST_COMMIT_MESSAGE" value="hi" />
+    <MESSAGE value="Java Week homework 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Week homework 6" />
   </component>
 </project>
